@@ -30,7 +30,7 @@ export default function Contacto() {
           <MapPinIcon className="w-8 h-8 dark:text-white" />
           Tucumán - Argentina
         </div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7240360.651718976!2d-69.83685651198029!3d-27.61422168254192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94223792d6c56903%3A0xf88d5b92b5c56527!2sSan%20Miguel%20de%20Tucum%C3%A1n%2C%20Tucum%C3%A1n!5e0!3m2!1ses!2sar!4v1730713272463!5m2!1ses!2sar" width="400" height="300" className=" border-0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7240360.651718976!2d-69.83685651198029!3d-27.61422168254192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94223792d6c56903%3A0xf88d5b92b5c56527!2sSan%20Miguel%20de%20Tucum%C3%A1n%2C%20Tucum%C3%A1n!5e0!3m2!1ses!2sar!4v1730713272463!5m2!1ses!2sar" className=" border-0 w-full h-auto" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         
       </div>
     </div>
