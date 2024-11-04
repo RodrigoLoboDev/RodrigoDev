@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --text-opacity: 1
+    
+}
+
+body {
+    background-color: rgba(242,240,238,var(--text-opacity));
+}
+body.dark {
+    background-color: rgb(38, 39, 41);
+}
+.invertir:hover {
+    background-color: red;
+    filter: invert();
+}
+
+.resumen {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+}

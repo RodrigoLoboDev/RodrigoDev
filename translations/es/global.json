@@ -1,0 +1,45 @@
+{
+    "index": {
+        "p1": "Hola soy,",
+        "p2": "Soy:",
+        "p3": "Soy un desarrollador fullstack con experiencia en React, Next.js y Node.js. Comencé mi camino en programación a través de cursos en plataformas como Udemy, y desde entonces, he desarrollado una pasión por crear aplicaciones web eficientes y funcionales."
+    },
+    "acercademi": {
+        "h2": "Acerca de Mi",
+        "p1": "Lee acerca de mi",
+        "span": "¡Impulsa tu éxito en el mundo digital con un Desarrollador Web Full Stack excepcional!",
+        "p2": "Soy un apasionado Desarrollador Web Full Stack con más de 3 años de experiencia en la creación y optimización de aplicaciones web. Mi especialización abarca una amplia gama de tecnologías como JavaScript (React, Next.js, React Router DOM), PHP, Node.js, y herramientas de control de versiones como Git y GitHub. He trabajado en proyectos web completos, desarrollando tanto el frontend como el backend, y perfeccionando mis habilidades a través de aprendizaje en línea en plataformas como Udemy, lo cual me ha permitido alcanzar un nivel avanzado en desarrollo web. Además, tengo el honor de ser Profesor Universitario en una Tecnicatura Superior en Desarrollo de Software, donde comparto mi experiencia en Computación con futuros desarrolladores. Esta labor docente no solo me permite retribuir a la comunidad IT, sino que también refuerza mi compromiso con el aprendizaje continuo y la adaptación a las últimas tendencias tecnológicas. En mi tiempo libre, me gusta mantener un estilo de vida equilibrado. Disfruto del ejercicio en el gimnasio, de los momentos en familia jugando al fútbol con mi hijo, y de explorar nuevas series o destinos. Si estás buscando un Desarrollador Web Full Stack con experiencia práctica, habilidades de enseñanza y un enfoque creativo, estoy a tu disposición. Juntos, podemos llevar tus ideas digitales al siguiente nivel. ¡Contáctame para que podamos hacer realidad tus proyectos y objetivos tecnológicos!",
+        "button": "Leer Más",
+        "h3": "Tecnologías Que Uso",
+        "p3": "Estas son las Tecnologías que utilizo para crear aplicaciones del lado del Cliente:",
+        "p4": "Estas son las Tecnologías que utilizo para crear aplicaciones BackEnd:",
+        "p5": "Otras Tecnologías y más..."
+    },
+    "contacto": {
+        "h2": "Contacto",
+        "p1": "Contactame",
+        "p2": "Soy un desarrollador apasionado por crear soluciones digitales que optimicen la experiencia del usuario. Con experiencia en desarrollo web fullstack, disfruto trabajando en proyectos complejos y colaborando en equipo."
+    },
+    "footer": {
+        "p": "Todos los Derechos Reservados "
+    },
+    "modal": {
+        "h2": "Sobre Mi",
+        "span": "¡Impulsa tu éxito en el mundo digital con un Desarrollador Web Full Stack excepcional!",
+        "p": "Soy un apasionado Desarrollador Web Full Stack con más de 3 años de experiencia en la creación y optimización de aplicaciones web. Mi especialización abarca una amplia gama de tecnologías como JavaScript (React, Next.js, React Router DOM), PHP, Node.js, y herramientas de control de versiones como Git y GitHub. He trabajado en proyectos web completos, desarrollando tanto el frontend como el backend, y perfeccionando mis habilidades a través de aprendizaje en línea en plataformas como Udemy, lo cual me ha permitido alcanzar un nivel avanzado en desarrollo web. Además, tengo el honor de ser Profesor Universitario en una Tecnicatura Superior en Desarrollo de Software, donde comparto mi experiencia en Computación con futuros desarrolladores. Esta labor docente no solo me permite retribuir a la comunidad IT, sino que también refuerza mi compromiso con el aprendizaje continuo y la adaptación a las últimas tendencias tecnológicas. En mi tiempo libre, me gusta mantener un estilo de vida equilibrado. Disfruto del ejercicio en el gimnasio, de los momentos en familia jugando al fútbol con mi hijo, y de explorar nuevas series o destinos. Si estás buscando un Desarrollador Web Full Stack con experiencia práctica, habilidades de enseñanza y un enfoque creativo, estoy a tu disposición. Juntos, podemos llevar tus ideas digitales al siguiente nivel. ¡Contáctame para que podamos hacer realidad tus proyectos y objetivos tecnológicos!",
+        "button": "Cerrar"
+    },
+    "navegacion": {
+        "modoclaro": "Modo Claro",
+        "modooscuro": "Modo Oscuro",
+        "acercademi": "Acerca de Mi",
+        "proyectos": "Proyectos",
+        "contacto": "Contacto"
+    },
+    "proyectos": {
+        "h2": "Mis Proyectos",
+        "p1": "Algunos de mis proyectos",
+        "p2": "Aun no Tienes Proyectos Agregados",
+        "a": "Ir al Proyecto"
+    }
+}

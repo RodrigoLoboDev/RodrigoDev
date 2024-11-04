@@ -1,0 +1,45 @@
+{
+    "index": {
+        "p1": "Hi I am,",
+        "p2": "Am:",
+        "p3": "I am a fullstack developer with experience in React, Next.js and Node.js. I started my programming journey through courses on platforms like Udemy, and since then, I developed a passion for creating efficient and functional web applications."
+    },
+    "acercademi": {
+        "h2": "About Me",
+        "p1": "Read about me",
+        "span": "¡Boost your success in the digital world with an exceptional Full Stack Web Developer!",
+        "p2": "I am a passionate Full Stack Web Developer with more than 3 years of experience in creating and optimizing web applications. My specialization covers a wide range of technologies such as JavaScript (React, Next.js, React Router DOM), PHP, Node.js, and version control tools such as Git and GitHub. I have worked on complete web projects, developing both frontend and backend, and honing my skills through online learning on platforms like Udemy, which has allowed me to reach an advanced level in web development. In addition, I have the honor of being a University Professor in a Higher Technician in Software Development, where I share my experience in Computing with future developers. This teaching work not only allows me to give back to the IT community, but also reinforces my commitment to continuous learning and adaptation to the latest technological trends. In my free time, I like to maintain a balanced lifestyle. I enjoy exercising at the gym, spending time with my family playing soccer with my son, and exploring new series or destinations. If you are looking for a Full Stack Web Developer with practical experience, teaching skills and a creative approach, I am at your disposal. Together, we can take your digital ideas to the next level. Contact me so we can make your technological projects and goals a reality!",
+        "button": "Read More",
+        "h3": "Technologies I Use",
+        "p3": "These are the Technologies I use to create Client-side applications:",
+        "p4": "These are the Technologies I use to create BackEnd applications:",
+        "p5": "Other Technologies and more..."
+    },
+    "contacto": {
+        "h2": "Contact",
+        "p1": "Contact me",
+        "p2": "I am a developer passionate about creating digital solutions that optimize the user experience. With experience in fullstack web development, I enjoy working on complex projects and collaborating as a team."
+    },
+    "footer": {
+        "p": "All Rights Reserved"
+    },
+    "modal": {
+        "h2": "About Me",
+        "span": "¡Boost your success in the digital world with an exceptional Full Stack Web Developer!",
+        "p": "I am a passionate Full Stack Web Developer with more than 3 years of experience in creating and optimizing web applications. My specialization covers a wide range of technologies such as JavaScript (React, Next.js, React Router DOM), PHP, Node.js, and version control tools such as Git and GitHub. I have worked on complete web projects, developing both frontend and backend, and honing my skills through online learning on platforms like Udemy, which has allowed me to reach an advanced level in web development. In addition, I have the honor of being a University Professor in a Higher Technician in Software Development, where I share my experience in Computing with future developers. This teaching work not only allows me to give back to the IT community, but also reinforces my commitment to continuous learning and adaptation to the latest technological trends. In my free time, I like to maintain a balanced lifestyle. I enjoy exercising at the gym, spending time with my family playing soccer with my son, and exploring new series or destinations. If you are looking for a Full Stack Web Developer with practical experience, teaching skills and a creative approach, I am at your disposal. Together, we can take your digital ideas to the next level. Contact me so we can make your technological projects and goals a reality!",
+        "button": "Close"
+    },
+    "navegacion": {
+        "modoclaro": "Clear Mode",
+        "modooscuro": "Dark Mode",
+        "acercademi": "About Me",
+        "proyectos": "Projects",
+        "contacto": "Contact"
+    },
+    "proyectos": {
+        "h2": "My Projects",
+        "p1": "Some of my projects",
+        "p2": "You don't have any Added Projects yet",
+        "a": "Go to Project"
+    }
+}
